@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Functors", "MonadsAndFunctors\Functors.fsproj", "{6E68B00A-D528-4201-BCFF-7E6228CBC98D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Monads", "Monads\Monads.fsproj", "{6847E8E7-FD53-49D8-B52B-C016F8CE58B1}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Applicatives", "Applicatives\Applicatives.fsproj", "{63610DB5-3845-4FB6-B2FF-17F339805742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E68B00A-D528-4201-BCFF-7E6228CBC98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E68B00A-D528-4201-BCFF-7E6228CBC98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E68B00A-D528-4201-BCFF-7E6228CBC98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E68B00A-D528-4201-BCFF-7E6228CBC98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6847E8E7-FD53-49D8-B52B-C016F8CE58B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6847E8E7-FD53-49D8-B52B-C016F8CE58B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6847E8E7-FD53-49D8-B52B-C016F8CE58B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6847E8E7-FD53-49D8-B52B-C016F8CE58B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63610DB5-3845-4FB6-B2FF-17F339805742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63610DB5-3845-4FB6-B2FF-17F339805742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63610DB5-3845-4FB6-B2FF-17F339805742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63610DB5-3845-4FB6-B2FF-17F339805742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
